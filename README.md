@@ -1,15 +1,14 @@
 # Hi, I'm Mostafa Samer Dorrah! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer and problem-solver who loves building innovative solutions and contributing to the open-source community.
+Welcome to my GitHub profile! I'm a passionate AI developer and problem-solver who loves building innovative solutions and contributing to the open-source community.
 
 ---
 
 ## 🚀 About Me
 
-- 🌍 **Location**: Based in [Your Location]
-- 💻 **Specialized In**: [Your Specializations, e.g., Web Development, AI, etc.]
-- 🎯 **Goals**: [Your Goals, e.g., "To contribute to impactful projects" or "To master full-stack development"]
-- 📫 **Reach Me**: [Your Contact Email]
+- 🌍 **Location**: Based in Egypt.
+- 💻 **Specialized In**: AI Development
+- 📫 **Reach Me**: Mostafadorrah@gmail.com (Email) / +20 01066906533 (Whatsapp)
 
 ---
 
@@ -17,11 +16,8 @@ Welcome to my GitHub profile! I'm a passionate developer and problem-solver who 
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -36,22 +32,10 @@ Welcome to my GitHub profile! I'm a passionate developer and problem-solver who 
 
 ---
 
-## 🌟 Featured Projects
-
-### [Project Name 1](https://github.com/MostafaDorrah/ProjectName1)
-- 🔹 **Description**: [Brief description of the project]
-- 🔹 **Tech Stack**: [Technologies used]
-
-### [Project Name 2](https://github.com/MostafaDorrah/ProjectName2)
-- 🔹 **Description**: [Brief description of the project]
-- 🔹 **Tech Stack**: [Technologies used]
-
----
-
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafadorrah)
+[![CV](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://drive.google.com/file/d/1iLlZRS6Y6HbsqvqD8YLCgepoUblPoO3R/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
